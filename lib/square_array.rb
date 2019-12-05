@@ -20,3 +20,13 @@ def square_array(array)
   end
   squared
 end
+
+###############
+
+def square_array(array)
+  square = []
+  while array[counter] do
+    puts array[counter] ** 2
+    counter +=1
+
+end
