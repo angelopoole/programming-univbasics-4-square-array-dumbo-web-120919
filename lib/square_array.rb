@@ -21,7 +21,7 @@
 #   squared
 # end
 
-###############
+############### personal solution
 
 def square_array(array)
   squared = []
