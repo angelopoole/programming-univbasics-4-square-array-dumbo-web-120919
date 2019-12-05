@@ -27,7 +27,7 @@ def square_array(array)
   counter = 0
   square = []
   while array[counter] do
-    squared.push( array[counter] ** 2)
+    square.push( array[counter] ** 2)
     counter +=1
   end
 
